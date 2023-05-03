@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConsoleDuSimpleFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterUndead.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterMechanic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterSimpleFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterParFactoryMethod.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterUndeadFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterElementFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterMechanicFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterChildFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GeovinDu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Monster.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterUndead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterMechanic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterSimpleFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterParFactoryMethod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterUndeadFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterElementFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterMechanicFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterChildFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GeovinDu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
